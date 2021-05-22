@@ -30,3 +30,5 @@ I created this script specifically for students/professionals who are doing onli
 * Capture unique slides in both directions
 * If possible increase the performance
 * More user friendly and custom options
+
+# NOTE: Always open to suggestions, bugs, mistakes, improvements. 
