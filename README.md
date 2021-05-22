@@ -10,6 +10,8 @@ I created this script specifically for students/professionals who are doing onli
 
 # Usage
 
+* You need - OpenCv, re, moviepy, optparse, scikit, matplotlib, numpy, reprint modules 
+
 ```python -v 'video.mp4' -s 5 -n 1```
 
 * There is a "test" image along with this folder, this is for inital comparison so DO NOT DELETE it
