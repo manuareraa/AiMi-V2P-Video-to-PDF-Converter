@@ -8,6 +8,10 @@ I created this script specifically for students/professionals who are doing onli
 * You can fully customize the script
 * Still need lot of improvements
 
+# Demo
+
+![ AiMi V2P: Video to PDF Converter](demo.gif)
+
 # Usage
 
 * You need - OpenCv, re, moviepy, optparse, scikit, matplotlib, numpy, reprint modules 
