@@ -23,14 +23,14 @@ I created this script specifically for students/professionals who are doing onli
 * The ```-s``` option tells the script to jump to every nth second into the video. Ex: If given as 5, then script jumps as follows 5,10,15,20,25...and so on until the end
 * The ```-n``` option get the video number. The video number here is to avoid mixing of images. So in case if you are converting multiple videos to PDF which are in the "same folder" then give different Video number so that the images are easily differentiated. In case if you are only convreting only "one video" at a time then give the number as just "1"
 * The output will be a PDF with the same name as the video
-* The very downside is that you need to initially add a simple screenshot from a video you are going to convert. There is a issue with the image dimensions. So, if you are going to work with multiple videos of same dimension then one single image is enough to add as a test image. If you are going to convert multiple videos of different dimensions then you are going to add different test images inside the script
-* So overall you need to add one test image inside the script(you will be able to find it inside the script) before running the script. DO NOT FORGET
 
 # To Do
 
-* Find a work around for "test" image issue
 * Capture unique slides in both directions
-* If possible increase the performance
 * More user friendly and custom options
 
-# NOTE: Always open to suggestions, bugs, mistakes, improvements. 
+# Changelog
+
+* The Comparison Image issue has been fixed
+
+# NOTE: Always open to suggestions, bugs, improvements. 
