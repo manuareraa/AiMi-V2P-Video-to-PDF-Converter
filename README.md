@@ -1,4 +1,4 @@
-# AiMi-V2P-Video-to-PDF-Converter
+# AiMi V2P Video to PDF Converter
 
 I created this script specifically for students/professionals who are doing online courses. I suffered a lot sitting in front of the screen for hours watching the video, so I thought why not convert this video into a book of slides. Because mostly online platforms/lecture videos contain slides. So converting the video into individual slides helped me a lot.
 
